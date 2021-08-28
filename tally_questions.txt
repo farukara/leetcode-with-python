@@ -1,10 +1,12 @@
 # Question progress
 
 0001. Done also doing with binary search
-0002. WIP
+0002. 
 
 0007. Done
 0008. Done
 0009. Done
 
-0011. WIP
+0011. 
+
+0014. Done
