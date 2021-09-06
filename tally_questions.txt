@@ -10,3 +10,7 @@
 0011. 
 
 0014. Done
+
+0021. entering the infinte loop gotta find out why
+
+0026. 
