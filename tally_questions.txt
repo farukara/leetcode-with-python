@@ -1,16 +1,19 @@
 # Question progress
 
-0001. Done also doing with binary search
+0001. Done gitted also doing with binary search
 0002. 
 
-0007. Done
-0008. Done
-0009. Done
+0007. Done gitted
+0008. Done gitted
+0009. Done gitted
 
 0011. 
 
-0014. Done
+0013. Done py js ?git?
+0014. Done gitted
 
 0021. entering the infinte loop gotta find out why
 
 0026. 
+
+0042. 
